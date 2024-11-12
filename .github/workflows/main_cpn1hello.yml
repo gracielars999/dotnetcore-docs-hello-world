@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'CPN1Hello'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C72CCC7D3A84411BBB431C98D26C2C59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB356164122049CBA82FC5065B8FA248 }}
           package: .
